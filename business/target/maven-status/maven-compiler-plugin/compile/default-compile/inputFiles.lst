@@ -1,0 +1,7 @@
+/Users/xiongzhanyuan/IdeaProjects/local/chenbao/business/src/main/java/com/xzy/chenbao/business/controller/UserInfoController.java
+/Users/xiongzhanyuan/IdeaProjects/local/chenbao/business/src/main/java/com/xzy/chenbao/business/service/UserInfoService.java
+/Users/xiongzhanyuan/IdeaProjects/local/chenbao/business/src/main/java/com/xzy/chenbao/business/impl/UserInfoServiceImpl.java
+/Users/xiongzhanyuan/IdeaProjects/local/chenbao/business/src/main/java/com/xzy/chenbao/business/job/CommonJob.java
+/Users/xiongzhanyuan/IdeaProjects/local/chenbao/business/src/main/java/com/xzy/chenbao/business/domain/UserInfo.java
+/Users/xiongzhanyuan/IdeaProjects/local/chenbao/business/src/main/java/com/xzy/chenbao/business/consumer/KafkaListeners.java
+/Users/xiongzhanyuan/IdeaProjects/local/chenbao/business/src/main/java/com/xzy/chenbao/business/mapper/UserInfoMapper.java

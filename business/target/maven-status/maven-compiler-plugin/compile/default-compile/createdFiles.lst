@@ -1,0 +1,7 @@
+com/xzy/chenbao/business/impl/UserInfoServiceImpl.class
+com/xzy/chenbao/business/job/CommonJob.class
+com/xzy/chenbao/business/consumer/KafkaListeners.class
+com/xzy/chenbao/business/mapper/UserInfoMapper.class
+com/xzy/chenbao/business/controller/UserInfoController.class
+com/xzy/chenbao/business/domain/UserInfo.class
+com/xzy/chenbao/business/service/UserInfoService.class
